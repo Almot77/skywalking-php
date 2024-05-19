@@ -58,6 +58,7 @@ tonic = { version = "0.8.3", features = ["tls"] }
 tracing = { version = "0.1.37", features = ["attributes"] }
 tracing-subscriber = { version = "0.3.17", features = ["env-filter"] }
 url = "2.4.0"
+gethostname = "0.4.3"
 
 [dev-dependencies]
 axum = "0.6.19"
